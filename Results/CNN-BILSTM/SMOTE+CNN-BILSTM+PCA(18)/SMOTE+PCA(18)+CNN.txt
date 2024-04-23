@@ -1,0 +1,6 @@
+Precision: 97.17%
+Accuracy: 98.11%
+F1 Score: 98.15%
+Recall: 99.14%
+
+Elapsed time: 10512.04 microseconds

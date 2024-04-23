@@ -1,0 +1,42 @@
+Precision: 98.84%
+Accuracy: 99.25%
+F1 Score: 99.26%
+Recall: 99.69%
+
+
+
+Elapsed time: 6504.15 microseconds
+
+
+epochs=20
+
+
+Precision: 98.84%
+Accuracy: 99.37%
+F1 Score: 99.38%
+Recall: 99.92%
+
+Elapsed time: 8163.21 microseconds
+
+
+
+epochs=50
+
+
+Precision: 99.00%
+Accuracy: 99.41%
+F1 Score: 99.42%
+Recall: 99.84%
+
+Elapsed time: 83129.02 microseconds
+
+
+epochs=100
+
+
+Precision: 99.30%
+Accuracy: 99.49%
+F1 Score: 99.49%
+Recall: 99.69%
+
+Elapsed time: 8246.90 microseconds

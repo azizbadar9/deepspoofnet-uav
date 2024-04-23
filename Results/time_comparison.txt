@@ -1,0 +1,23 @@
+Time comparison
+
+
+
+ANN + PCA = 9191.75 microseconds
+ANN + PCC = 10539.77 microseconds
+ANN + X2 = 7184.03 microseconds
+ANN + ANOVA = 7838.01 microseconds
+
+
+CNN + PCA = 8655.07 microseconds
+CNN + PCC = 10158.06 microseconds
+CNN + X2 = 9617.09 microseconds
+CNN + ANOVA = 14127.25 microseconds
+
+
+CNNBi + PCA = 10164.02 microseconds
+CNNBi + PCC = 10396.96 microseconds
+CNNBi + X2 = 8592.84 microseconds
+CNNBi + ANOVA = 7005.93 microseconds
+
+
+7005.93

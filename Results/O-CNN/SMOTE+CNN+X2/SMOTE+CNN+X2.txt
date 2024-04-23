@@ -1,0 +1,17 @@
+Epochs 10
+Precision: 99.34%
+Accuracy: 96.89%
+F1 Score: 96.84%
+Recall: 94.47%
+
+
+Elapsed time: 7671.12 microseconds
+
+
+
+Epochs 20
+
+Precision: 98.23%
+Accuracy: 98.94%
+F1 Score: 98.96%
+Recall: 99.69%
