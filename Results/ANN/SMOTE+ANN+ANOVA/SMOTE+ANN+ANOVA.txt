@@ -5,4 +5,4 @@ Recall: 98.99%
 
 
 
-Elapsed time: 9191.75 microseconds
+Elapsed time: 7838.01 microseconds
