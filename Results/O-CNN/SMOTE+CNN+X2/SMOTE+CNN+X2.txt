@@ -5,9 +5,6 @@ F1 Score: 96.84%
 Recall: 94.47%
 
 
-Elapsed time: 7671.12 microseconds
-
-
 
 Epochs 20
 
