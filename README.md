@@ -22,3 +22,8 @@ Link
 https://github.com/PX4/pyulog
 
 This is extract flight data from both ulog files merge both files and remove NAN values and use SMOTE for data balancing.
+
+
+Access the code at:  [![DOI](https://zenodo.org/badge/790691904.svg)](https://doi.org/10.5281/zenodo.13963837)
+
+
