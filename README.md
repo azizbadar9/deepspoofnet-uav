@@ -1,17 +1,45 @@
 Libraries Used
+# Project Overview
 
-1-Numpy V1.26.0 (working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices. )
-2- Pandas 2.1.1 (working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data. The name "Pandas" has a reference to both "Panel Data", and "Python Data Analysis")
-3- Seaborn 0.13.0 (visualize random distributions.)
-4- Matplotlib 3.8.0 (creating static, animated, and interactive visualizations in Python.)
-5- TensorFlow 2.14.0 (TensorFlow can be used to develop models for various tasks, including natural language processing, image recognition, handwriting recognition, and different computational-based simulations such as partial differential equations.)
-6- Keras 2.14.0 (Keras is a high-level, deep learning API developed by Google for implementing neural networks.)
-7- scikit-learn 1.3 (to implement machine learning models and statistical modeling.)
+## Libraries Used
 
-Note 
-Pip install will command in folder directory will install all the third party and native libraries.
+The following libraries are utilized in this project:
 
-Each file of pybook has separate Modal and and its combination with feature selection method.
+1. **Numpy v1.26.0**  
+   - Numpy is used for working with arrays and has functions for linear algebra, Fourier transform, and matrices.  
+   - Installation: `pip install numpy==1.26.0`
+
+2. **Pandas v2.1.1**  
+   - Pandas is used for working with datasets, providing functions for data analysis, cleaning, exploration, and manipulation. The name "Pandas" refers to both "Panel Data" and "Python Data Analysis."  
+   - Installation: `pip install pandas==2.1.1`
+
+3. **Seaborn v0.13.0**  
+   - Seaborn is used for visualizing random distributions and creating attractive statistical graphics.  
+   - Installation: `pip install seaborn==0.13.0`
+
+4. **Matplotlib v3.8.0**  
+   - Matplotlib is used for creating static, animated, and interactive visualizations in Python.  
+   - Installation: `pip install matplotlib==3.8.0`
+
+5. **TensorFlow v2.14.0**  
+   - TensorFlow is used for developing machine learning models for tasks such as natural language processing, image recognition, handwriting recognition, and computational simulations like partial differential equations.  
+   - Installation: `pip install tensorflow==2.14.0`
+
+6. **Keras v2.14.0**  
+   - Keras is a high-level deep learning API for implementing neural networks, developed by Google.  
+   - Installation: `pip install keras==2.14.0`
+
+7. **scikit-learn v1.3**  
+   - scikit-learn is used for implementing machine learning models and statistical modeling techniques.  
+   - Installation: `pip install scikit-learn==1.3`
+
+To install all the necessary libraries at once, run the following command in your folder directory:
+
+```bash
+pip install -r requirements.txt
+
+
+Each file of pybook has separate Model and and its combination with feature selection method.
 
 
 Dataset Creation
